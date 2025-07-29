@@ -1,0 +1,454 @@
+.hed {
+    display: flex;
+}
+
+.top-hader {
+    background-color: #f5f5f5;
+    /* margin-top: -50px;
+margin-bottom: -45px; */
+}
+
+.top-had {
+    display: flex;
+}
+
+.all-photo {
+    /* padding-right: 50px; */
+    margin-right: 30px;
+
+}
+
+.second {
+    /* padding-right: 20px; */
+    color: #887F81;
+    display: block;
+    width: 190px;
+    margin-left: -5px;
+}
+
+ul li {
+    list-style: none;
+    margin-right: 0px;
+}
+
+.top-pra {
+    font-size: 13px;
+    margin-top: 11px;
+    margin-left: -5px;
+    display: block;
+    width: 120px;
+}
+
+.logo {
+    padding-left: 26px;
+    padding-right: 50px;
+}
+
+.had-nav {
+    display: flexs;
+}
+
+.nav {
+    display: flex;
+}
+
+ul li a {
+    padding-right: 60px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.last-foot {
+    background-image: url("src/photo/dubai.jpg");
+}
+
+.las-hed h2 {
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
+    font-weight: 500px;
+}
+
+.join-logo {
+
+    display: flex;
+}
+
+.lal {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin-top: -38px;
+}
+
+.icon-img {
+    padding: 5px;
+    padding-left: 6px;
+    width: 64px;
+}
+
+.doctor-2 {
+    padding: 13px;
+}
+
+.doctor-2 h4 {
+    text-align: center;
+    margin-bottom: -53px;
+    font-size: 20px;
+}
+
+.doctor-2 span {
+    text-align: center;
+    margin-bottom: -53px;
+    font-size: 14px;
+}
+
+.max {
+    margin-left: 15px;
+}
+
+.Medical h2 {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.We-have {
+    color: white;
+    background-color: #52bffd;
+    background-image: url("src/photo/cta-bg.png");
+}
+
+.Stay h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 55px;
+}
+
+.Stay h1 {
+    /* font-size: 75px; */
+    text-align: center;
+    margin-top: 20px;
+}
+
+.my-button {
+    padding: 9px;
+    text-align: center;
+    margin-left: 503px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    background-color: #206ca3;
+
+}
+
+.muj {
+    border-right: 3px solid white;
+    width: 25px;
+    height: 45px;
+    margin-right: 20px;
+
+}
+
+.bt-no {
+    display: flex;
+}
+
+.bt-no h4 {
+    margin-top: 10px;
+}
+
+.had-banner {
+    background-image: url("src/photo/banner_image-1725284861375.jpg");
+}
+
+.breadcrumb {
+    display: flex;
+    color: white;
+}
+
+.breadcrumb li a {
+    color: #f1f1f1;
+    color: #f1f1f1;
+    font-size: 20px;
+    padding-right: 20px;
+    FONT-WEIGHT: 500;
+}
+
+.banner-had h1 {
+    color: white;
+    margin-left: 36px;
+    font-size: 49px;
+
+}
+
+.banner-had p {
+    color: white;
+    margin-left: 36px;
+    font-size: 25px;
+
+}
+
+.Enqurire-bat {
+    margin-left: 36px;
+    margin-bottom: 185px;
+}
+
+.Enqurire-bat a {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #52bffd;
+}
+
+.benner-doun li a {
+    color: black;
+    padding-right: 45px;
+    margin-left: -8px;
+}
+
+.benner-doun {
+    display: flex;
+}
+
+.line {
+    border-top: 2px solid rgb(14, 13, 13);
+}
+
+.tert-img {
+    padding-left: 110px;
+    padding-top: 20px;
+
+}
+
+.treament h1 {
+    font-size: 35px;
+}
+
+.treament p {
+    font-size: 17px;
+}
+
+.line-2 {
+    border-top: 2px dotted hsl(202, 100%, 50%);
+}
+
+.point {
+    list-style: circl;
+}
+
+.mul {
+    list-style: circle;
+}
+
+.mul li {
+    line-height: 2;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+    margin-left: 27px;
+}
+
+input,
+textarea {
+
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 25px;
+}
+
+button {
+    background-color: hwb(192 11% 5%);
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 24px;
+}
+
+button:hover {
+    background-color: hsl(184, 94%, 56%);
+}
+
+.form h2 {
+    margin-left: 50px;
+    font-family: math;
+    font-style: italic;
+    color: hsl(199, 82%, 69%);
+}
+
+.form p {
+    margin-left: 25px;
+
+}
+
+.form {
+    box-shadow: 0 0 10px 0 #ccc;
+    margin-top: 35px;
+}
+
+.line-3 {
+    border-top: 2px dotted hwb(199 0% 0%);
+    /* width: 860px; */
+}
+
+.line-4 {
+    border-top: 2px dotted hwb(199 0% 0%);
+    margin-bottom: 24px;
+    margin-top: 33px;
+}
+
+.line-5 {
+    border-top: 1px solid rgb(218, 210, 210);
+    margin-bottom: 24px;
+    margin-top: 0px;
+}
+
+.custom-list li::before {
+    content: "+ ";
+    /* or use "-" for negative lists */
+    margin-right: 5px;
+    color: hsl(187, 84%, 49%);
+    font-size: 25px;
+
+}
+
+.custom-list {
+    padding-left: 0px;
+}
+
+.line-6 {
+    border-top: 1px SOLID hwb(199 0% 0%);
+    margin-bottom: 24px;
+    margin-top: 33px;
+}
+
+.custom-listing li::before {
+    content: "|";
+    /* or use "-" for negative lists */
+    color: hsl(187, 84%, 49%);
+    font-size: 45px;
+    margin-right: 18px;
+
+}
+
+.custom-listing p {
+    padding-left: 25px;
+    margin-top: -45px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+    /* Adjust this for how far outside the controls should be */
+}
+
+.lal-img {
+
+    border: 2px solid cornsilk;
+}
+
+.slider-top {
+    margin-bottom: 45px;
+    margin-top: 50px;
+}
+
+.doctor h5 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-family: emoji;
+    font-size: 22px;
+
+}
+
+.doctor h4 {
+    text-align: center;
+    margin-bottom: -55px
+}
+
+.doctor span {
+    color: #06bde9;
+    font-family: initial;
+}
+
+.sc-img {
+    margin-bottom: 20px;
+}
+
+.tr-img {
+    border: 1px dotted rgb(226, 12, 12);
+    margin-bottom: 20px;
+}
+
+.last-salider-p {
+    text-align: center;
+}
+
+.last-salider-p span {
+    color: red;
+    text-decoration: underline;
+}
+
+.form-degin {
+    margin-left: 25px;
+}
+
+.form-bat {
+    margin-left: 28px;
+    border-radius: 5px;
+}
+
+.customing-list li::before {
+    content: "- ";
+    /* or use "-" for negative lists */
+    margin-right: 5px;
+    color: hsl(187, 84%, 49%);
+    margin-left: -28px;
+    font-size: 22px;
+}
+
+.las-hed .customing-list li a {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 31px;
+}
+
+.last-pra {
+    color: white;
+}
+
+.last-pra p {
+    color: white;
+    width: 524px;
+}
+
+.end-tach {
+    display: flex;
+}
+
+.last-pra2 {
+    color: white;
+}
+
+.last-footerlogo {
+    padding-right: 20px;
+}
